@@ -1,0 +1,104 @@
+{
+  "agree": {
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et rutrum turpis, sed pretium leo. Vestibulum tempus nibh erat, quis vestibulum dui porttitor vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "projects": [
+      {
+        "name": "Agree Market",
+        "contents": [
+          { "component": "h2", "content": "1. Ini heading Agree Market" },
+          { "component": "img", "content": "../assets/img/gambar.jpg" },
+          {
+            "component": "p",
+            "content": "ini text panjang banget Agree Market. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et rutrum turpis, sed pretium leo. Vestibulum tempus nibh erat, quis vestibulum dui porttitor vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      },
+      {
+        "name": "Agree Mart",
+        "contents": [
+          { "component": "h2", "content": "1. Ini heading Agree Mart" },
+          {
+            "component": "p",
+            "content": "ini text panjang banget Agree Mart. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et rutrum turpis, sed pretium leo. Vestibulum tempus nibh erat, quis vestibulum dui porttitor vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      }
+    ]
+  },
+  "bni": {
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et rutrum turpis, sed pretium leo. Vestibulum tempus nibh erat, quis vestibulum dui porttitor vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "projects": [
+      {
+        "name": "Information Portal Site",
+        "contents": [
+          {
+            "component": "h2",
+            "content": "1. Ini heading di Information Portal Site"
+          },
+          {
+            "component": "p",
+            "content": "ini text panjang banget Information Portal Site. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et rutrum turpis, sed pretium leo. Vestibulum tempus nibh erat, quis vestibulum dui porttitor vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      },
+      {
+        "name": "Loan Checklist Database",
+        "contents": [
+          {
+            "component": "h2",
+            "content": "1. Ini heading Loan Checklist Database"
+          },
+          {
+            "component": "p",
+            "content": "ini text panjang banget Loan Checklist Database. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et rutrum turpis, sed pretium leo. Vestibulum tempus nibh erat, quis vestibulum dui porttitor vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      }
+    ]
+  },
+  "ui": {
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et rutrum turpis, sed pretium leo. Vestibulum tempus nibh erat, quis vestibulum dui porttitor vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "projects": [
+      {
+        "name": "Thesis",
+        "contents": [
+          { "component": "h2", "content": "1. Ini heading Thesis" },
+          {
+            "component": "p",
+            "content": "ini text panjang banget Thesis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et rutrum turpis, sed pretium leo. Vestibulum tempus nibh erat, quis vestibulum dui porttitor vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      },
+      {
+        "name": "Ristek",
+        "contents": [
+          { "component": "h2", "content": "1. Ini heading Ristek" },
+          {
+            "component": "p",
+            "content": "ini text panjang banget Ristek. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et rutrum turpis, sed pretium leo. Vestibulum tempus nibh erat, quis vestibulum dui porttitor vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      },
+      {
+        "name": "Contests",
+        "contents": [
+          { "component": "h2", "content": "1. Ini heading Contests" },
+          {
+            "component": "p",
+            "content": "ini text panjang banget Contests. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et rutrum turpis, sed pretium leo. Vestibulum tempus nibh erat, quis vestibulum dui porttitor vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      },
+      {
+        "name": "Courses",
+        "contents": [
+          { "component": "h2", "content": "1. Ini heading Courses" },
+          {
+            "component": "p",
+            "content": "ini text panjang banget Courses. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et rutrum turpis, sed pretium leo. Vestibulum tempus nibh erat, quis vestibulum dui porttitor vitae. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      }
+    ]
+  }
+}
